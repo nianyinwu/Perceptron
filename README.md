@@ -5,4 +5,4 @@
 
 ### 執行步驟
 #### 1. python generate_sample.py [sample數]
-#### 2. 分別執行PLA.py與pocket.py
+#### 2. 分別執行PLA.py與Pocket.py
